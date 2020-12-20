@@ -1,3 +1,4 @@
 config.py
-Driver_Notes
+Driver_Notes/
 *.pyc
+__pycase__/
